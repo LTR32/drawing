@@ -1,0 +1,9 @@
+{
+    "language": "Français",
+    "@language":{
+        "description": "Le language actuel"
+    },
+    "touteffacer": "Tout effacer",
+    "parametres": "Paramètres",
+    "languesettings": "Langue"
+}
